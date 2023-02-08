@@ -1,9 +1,9 @@
-import React from "react";
+import SignInContainer from "../../containers/SiginInContainer";
 
 const SignIn = () => {
   return (
     <div>
-      <h1>login</h1>
+      <SignInContainer />
     </div>
   );
 };
